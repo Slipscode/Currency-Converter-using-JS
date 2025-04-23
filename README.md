@@ -36,3 +36,5 @@ Clone or download the repository
 Open index.html in your browser
 
 Enter the amount and select currencies to get the exchange rate
+
+Author - Prafull K
